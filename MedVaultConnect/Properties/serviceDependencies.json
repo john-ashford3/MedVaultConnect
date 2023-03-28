@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "medvaultconnect"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "MedVaultConnectContextConnection"
+    }
+  }
+}
